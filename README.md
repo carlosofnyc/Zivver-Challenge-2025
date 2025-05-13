@@ -26,7 +26,7 @@
 
 3.  **Run the script:**
     ```bash
-    python processingData.py 
+    python3 processingData.py 
     ```
     (Or `/opt/anaconda3/envs/bootcamp/bin/python processingData.py` if you prefer to specify the interpreter directly). same result.
 
